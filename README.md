@@ -45,5 +45,6 @@ This is a FinTech application for semester 2 project
 14. Send Money Screen
 ![Send money screen](https://github.com/user-attachments/assets/71697fa7-ae2c-41c7-ae51-2849c3a1e40b)
 
+15. Successful Transaction Screen
 
 
